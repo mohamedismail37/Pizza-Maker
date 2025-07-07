@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moham\\Desktop\\C14)C#)Level 1\\Pizza Maker Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4989A36A-21E6-49E8-9427-07BBF37C1900}|Pizza Maker Project.csproj|c:\\users\\moham\\desktop\\c14)c#)level 1\\pizza maker project\\frmorderscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4989A36A-21E6-49E8-9427-07BBF37C1900}|Pizza Maker Project.csproj|solutionrelative:frmorderscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4989A36A-21E6-49E8-9427-07BBF37C1900}|Pizza Maker Project.csproj|C:\\Users\\moham\\Desktop\\C14)C#)Level 1\\Pizza Maker Project\\frmorderscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4989A36A-21E6-49E8-9427-07BBF37C1900}|Pizza Maker Project.csproj|solutionrelative:frmorderscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmOrderScreen.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\C14)C#)Level 1\\Pizza Maker Project\\frmOrderScreen.cs",
+              "RelativeDocumentMoniker": "frmOrderScreen.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\C14)C#)Level 1\\Pizza Maker Project\\frmOrderScreen.cs",
+              "RelativeToolTip": "frmOrderScreen.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T05:44:51.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmOrderScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\C14)C#)Level 1\\Pizza Maker Project\\frmOrderScreen.cs",
+              "RelativeDocumentMoniker": "frmOrderScreen.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\C14)C#)Level 1\\Pizza Maker Project\\frmOrderScreen.cs [Design]",
+              "RelativeToolTip": "frmOrderScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T05:08:46.021Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
