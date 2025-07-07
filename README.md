@@ -1,4 +1,4 @@
-# Pizza-Maker
+# Pizza-Maker-GUI
 ### The system provides a user-friendly menu where customers can select pizza types, sizes, toppings, etc.
 ### It calculates total prices, and supports order confirmation and reset form. 
 
